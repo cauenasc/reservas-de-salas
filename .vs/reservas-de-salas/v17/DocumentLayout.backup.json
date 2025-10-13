@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251013144121_AddUsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs",
+              "RelativeToolTip": "reservas-de-salas\\Migrations\\20251013144121_AddUsuarioEntity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:41:22.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reservas-de-salas\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:39:53.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Models\\Usuario.cs",
+              "RelativeToolTip": "reservas-de-salas\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:33:34.233Z",
+              "EditorCaption": ""
             }
           ]
         }
