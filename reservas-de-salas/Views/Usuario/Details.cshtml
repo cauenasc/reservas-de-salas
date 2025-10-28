@@ -1,0 +1,25 @@
+﻿@model reservas_de_salas.Models.Usuario
+
+@{
+    ViewData["Title"] = "Cadastrar Usuário";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Id:</dt>
+        <dd class="col-sn-10">@Model.Id</dd>
+
+        <dt class="col-sm-2">E-mail:</dt>
+        <dd class="col-sn-10">@Model.Email</dd>
+
+        <dt class="col-sm-2">Administrador?:</dt>
+        <dd class="col-sn-10">(@Model.Administrador ? "Sim" : "Não")</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+    <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+</div>
