@@ -3,6 +3,7 @@ using reservas_de_salas;
 using reservas_de_salas.Data;
 using reservas_de_salas.Interfaces;
 using reservas_de_salas.Repositories;
+using reservas_de_salas.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,8 @@ builder.Services.AddDbContext<BancoContext>(opts => opts.UseSqlServer(builder.Co
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>(); 
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<ISalaRepository, SalaRepository>();
+builder.Services.AddScoped<ISalaService, SalaService>();
 
 var app = builder.Build();
 
