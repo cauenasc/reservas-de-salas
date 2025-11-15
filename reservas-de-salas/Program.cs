@@ -4,6 +4,7 @@ using reservas_de_salas.Data;
 using reservas_de_salas.Interfaces;
 using reservas_de_salas.Repositories;
 using reservas_de_salas.Services;
+using reservas_de_salas.Services.Strategy;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,10 @@ builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 builder.Services.AddScoped<ISalaRepository, SalaRepository>();
 builder.Services.AddScoped<ISalaService, SalaService>();
+builder.Services.AddScoped<IReservaRepository, ReservaRepository>();
+builder.Services.AddScoped<ValidadorDeReservaCapacidade>();
+builder.Services.AddScoped<ValidadorDeReservaHorario>();
+builder.Services.AddScoped<ReservasFacade>();
 
 var app = builder.Build();
 
