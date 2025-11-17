@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reservas-de-salas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b008c8ac12908c38daee8f730b3ecd0bc09f868")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dc25fda2c2fb5b3e5d654e2cd9909336a6b72ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("reservas-de-salas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reservas-de-salas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

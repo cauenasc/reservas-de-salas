@@ -1,0 +1,108 @@
+﻿@model IEnumerable<reservas_de_salas.Models.Reserva>
+@using System.Collections.Generic
+
+@{
+    ViewData["Title"] = "Lista de Reservas";
+    var indicadores = ViewBag.Indicadores as Dictionary<string, int>;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if(TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success mt-3">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if(TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @TempData["ErrorMessage"]
+    </div>
+}
+)
+
+
+<div class="row mb-4">
+    <div class="col-mb-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-header">Salas Cadastradas</div>
+            <div class="card-body">
+                <h5 class="card-title">@indicadores["totalSalas"]</h5>
+                <p class="card-text">Número total de salas disponíveis.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-mb-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-header">Usúarios Cadastrados</div>
+            <div class="card-body">
+                <h5 class="card-title">@indicadores["totalUsuarios"]</h5>
+                <p class="card-text">Número total de usúarios registrados.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-mb-4">
+        <div class="card text-white bg-info mb-3">
+            <div class="card-header">Total de Reservas</div>
+            <div class="card-body">
+                <h5 class="card-title">@indicadores["totalReservas"]</h5>
+                <p class="card-text">Total de reservas agendadas.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p> <a asp-action="Create" class="btn btn-primary">Nova Reserva</a> </p>
+
+<table id="reservasTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Usuário</th>
+            <th>Sala</th>
+            <th>Data da Reserva</th>
+            <th>Hora de Início</th>
+            <th>Hora de Término</th>
+            <th>Pessoas</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reserva in Model)
+    {
+        <tr>
+            <td>@reserva.Id</td>
+            <td>@reserva.Usuario.Email</td>
+            <td>@reserva.Sala.Nome</td>
+            <td>@reserva.Data.ToShortDateString()</td>
+            <td>@reserva.HoraInicio.ToString(@"hh\:mm")</td>
+            <td>@reserva.HoraFim.ToString(@"hh\:mm")</td>
+            <td>@reserva.NumeroPessoas</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@reserva.Id" class="btn btn-sm btn-info">Detalhes</a>
+                <a asp-action="Edit" asp-route-id="@reserva.Id" class="btn btn-sm btn-warning">Editar</a>
+                <a asp-action="Delete" asp-route-id="@reserva.Id" class="btn btn-sm btn-danger">Excluir</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>    
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#reservasTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.10.25/i18n/Portuguese-Brasil.json"
+                },
+                paging: true,
+                searching: true,
+                ordering: true,
+                info: true
+            });
+        });
+    </script>
+}

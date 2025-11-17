@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\sala\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\sala\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|c:\\users\\cauen\\desktop\\.netc#\\reservas-de-salas\\reservas-de-salas\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC562A1-C289-442F-AB4B-4378796F291C}|reservas-de-salas\\reservas-de-salas.csproj|solutionrelative:reservas-de-salas\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReservaController.cs",
-              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Controllers\\ReservaController.cs",
-              "RelativeDocumentMoniker": "reservas-de-salas\\Controllers\\ReservaController.cs",
-              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Controllers\\ReservaController.cs",
-              "RelativeToolTip": "reservas-de-salas\\Controllers\\ReservaController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswFYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:54:10.093Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:17:25.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Program.cs",
-              "RelativeDocumentMoniker": "reservas-de-salas\\Program.cs",
-              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Program.cs",
-              "RelativeToolTip": "reservas-de-salas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Sala\\Index.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Sala\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Sala\\Index.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Sala\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:14:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:02:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Details.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Reserva\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Details.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Reserva\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:00:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Delete.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Reserva\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Delete.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Reserva\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:54:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:48:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Create.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Reserva\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Create.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Reserva\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:18:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "reservas-de-salas\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T00:56:45.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "reservas-de-salas\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\cauen\\Desktop\\.netC#\\reservas-de-salas\\reservas-de-salas\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "reservas-de-salas\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:53:04.723Z",
+              "WhenOpened": "2025-11-17T00:55:57.026Z",
               "EditorCaption": ""
             }
           ]
